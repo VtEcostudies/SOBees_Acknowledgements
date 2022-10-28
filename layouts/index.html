@@ -18,6 +18,7 @@
 </header>
 <main class="content" role="main">
 
+  {{- partial "custom_links.html" . -}} <!-- VCE added this. Note: if add inside divs, here, doesn't work. -->
     <div class='fixed-nav'>
     </div>
     {{ range $index_val, $elem_val := $sections }}
@@ -31,6 +32,7 @@
                 </section>
             </article>
             <div class='post-after'></div>
+            {{- partial "custom_links.html" . -}} <!-- VCE added this. Note: if add inside divs, here, doesn't work. -->
         </div>
     {{ end }}
 </main>
