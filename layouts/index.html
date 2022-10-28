@@ -18,21 +18,21 @@
 </header>
 <main class="content" role="main">
 
-  {{- partial "custom_links.html" . -}} <!-- VCE added this. Note: if add inside divs, here, doesn't work. -->
     <div class='fixed-nav'>
     </div>
     {{ range $index_val, $elem_val := $sections }}
         <div class='post-holder'>
             <article id='{{ anchorize .Title }}' class='post {{ if eq $index_val 0 }}first{{ end }} {{ if eq (add $index_val 1) (len $sections) }}last{{ end }}'>
+                {{- partial "custom_links.html" . -}} <!-- VCE added this. Note: if add inside some divs, here, doesn't work. -->
                 <header class="post-header">
                     <h2 class="post-title">{{ .Title }}</h2>
                 </header>
                 <section class="post-content">
                     {{ .Content }}
                 </section>
+                {{- partial "custom_links.html" . -}} <!-- VCE added this. Note: if add inside some divs, here, doesn't work. -->
             </article>
             <div class='post-after'></div>
-            {{- partial "custom_links.html" . -}} <!-- VCE added this. Note: if add inside divs, here, doesn't work. -->
         </div>
     {{ end }}
 </main>
