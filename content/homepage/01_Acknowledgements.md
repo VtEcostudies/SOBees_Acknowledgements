@@ -58,7 +58,7 @@ Fairbanks Museum and Planetarium<br>
 
 The following people have added more than 100 records and/or volunteered for either the Vermont Bumble Bee Atlas or Wild Bee Survey (names in <b>bold</b>). Asterisks indicate project staff and collaborators. <a href="https://www.inaturalist.org/observations?place_id=47&subview=map&taxon_id=630955&view=observers">View a complete list</a> of more than 1,500 iNaturalist users who have submitted bee records for Vermont.
 <p style="font-size:11pt">
-<b>Betsy and Jim Bahrenburg<b>, 
+<b>Betsy and Jim Bahrenburg</b>, 
 E. L. Bell, 
 <b>Karen Bourque</b>, 
 <b>Neil Buckley</b>, 
