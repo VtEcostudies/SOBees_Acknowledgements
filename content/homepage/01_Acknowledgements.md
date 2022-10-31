@@ -7,56 +7,80 @@ The State of Bees report represents countless hours of work from hundreds of peo
 
 <div style="padding: 8px; background-color: rgb(0, 96, 84); border-radius: 5.5px 5.5px 2.5px 2.5px;">
 <p style="color: white" ><b>Suggested Citation:</b>
-Hardy, Spencer, Michael T. Hallworth, Mark Ferguson, Nathaniel Sharp, Jason Loomis, Emily Anderson, Kent McFarland (2022). The State of Vermont’s Wild Bees 2022. https://stateofbees.vtatlasoflife.org/ DOI: <a href="https://doi.org/10.5281/zenodo.7261316">https://doi.org/10.5281/zenodo.7261316</a></p>
+Hardy, Spencer, Michael T. Hallworth, Mark Ferguson, Nathaniel Sharp, Jason Loomis, Emily Anderson, Kent McFarland (2022). The State of Vermont’s Wild Bees 2022. https://stateofbees.vtatlasoflife.org/ DOI: <a href="https://doi.org/10.5281/zenodo.7261316">https://doi.org/10.5281/zenodo.7261316</a> Accessed: </p>
 </div>
 
 The following people were instrumental in getting this project off the ground, compiling the data that made it possible, and/or allowing access to the many special natural areas found throughout the state.
 
+<div class = "row">
+<div class = "doubleColumn">
+<div>
 <h4><u>Collaborators</u></h4>
-John Ascher, <i>National University of Singapore</i><br>   
+
+John Ascher, <i>National University of Singapore</i><br>
 Sam Droege, <i>USGS Native Bee Inventory and Monitoring Program</i><br>
 Tim Duclos, <i>Merck Forest and Farmland Center</i><br>
-Mark Ferguson, <i>Vermont Fish and Wildlife Department</i><br>           
-Joan Milam, <i>University of Massachusetts</i><br>     
-Lief Richardson, <i>Xerces Society</i><br>     
+Mark Ferguson, <i>Vermont Fish and Wildlife Department</i><br>
+Joan Milam, <i>University of Massachusetts</i><br>
+Lief Richardson, <i>Xerces Society</i><br>
 Michael Veit<br>     
-   
+</div>
+<div>
+<h3><u>Funders</u></h3>
+
+Vermont Fish and Wildlife Department <br>
+Sarah K. de Coizart Perpetual Charitable Trust <br>
+Missisquoi National Wildlife Refuge<br>
+UVM Apis Fund<br>
 <br>
-<h4><u>Interns</u></h4>
+</div>
+</div>
+
+<div class = "row" style = "margin: auto auto auto 6%">
+<h4><u>Collections</u></h4>
+
+University of Vermont Natural History Museum - Zadock Thompson Zoological Collection<br>
+University of Vermont spear street<br>
+Middlebury College Insect Collection<br>
+Fairbanks Museum and Planetarium<br>
+<br>
+</div>
+
+<br>
+<div class="doubleColumn">
+<div>
+<h4><u>Interns</u></h4> 
+
 Colin Brown, <i>University of Vermont</i><br>
 Claire Contreras, <i>Middlebury College</i><br>
 Katie McGranaghan, <i>Community College of Vermont</i><br>
 
 <br>
 <h4><u>Taxonomists</u></h4>
+
 The following people have been instrumental in identifying bees from Vermont. Without their expertise and time (often volunteered), this project would not have been possible. Through iNaturalist, over <a href="https://www.inaturalist.org/observations?place_id=47&subview=map&taxon_id=630955&view=identifiers">700 people</a> from all over the world have contributed identifications.
 
-John Ascher<br>
-Sam Droege<br>
-Jason Gibbs<br>
-Joan Milam<br>
-Max McCarthy<br>
-Joel Neylon<br>
-Thomas Onuferko<br>
-Leif Richardson<br>
-Michael Veit<br>
+John Ascher<br> <!--<br> -->
+Sam Droege<br><!--<br> -->
+Jason Gibbs<br> <!--<br> -->
+Joan Milam<br> <!--<br> -->
+Max McCarthy<br><!--<br> -->
+Joel Neylon<br> <!--<br> -->
+Thomas Onuferko<br> <!--<br> -->
+Leif Richardson<br> <!--<br> -->
+Michael Veit<br> <!--<br> -->
+</div>
+<div>
+<img src="https://stateofbees.vtatlasoflife.org/images/taxonomy_KPM.jpg" style="height: 90%">
+</div>
+</div>
 
-<h3><u>Funders</u></h3>
-Vermont Fish and Wildlife Department <br>
-Sarah K. de Coizart Perpetual Charitable Trust <br>
-Missisquoi National Wildlife Refuge<br>
-UVM Apis Fund<br>
-<br>
 
-<h4><u>Collections</u></h4>
-University of Vermont Natural History Museum - Zadock Thompson Zoological Collection<br>
-University of Vermont spear street<br>
-Middlebury College Insect Collection<br>
-Fairbanks Museum and Planetarium<br>
-<br>
+
+
 <h4><u>Field Work</u></h4>
 
-The following people have added more than 100 records and/or volunteered for either the Vermont Bumble Bee Atlas or Wild Bee Survey (names in <b>bold</b>). Asterisks indicate project staff and collaborators. <a href="https://www.inaturalist.org/observations?place_id=47&subview=map&taxon_id=630955&view=observers">View a complete list</a> of more than 1,500 iNaturalist users who have submitted bee records for Vermont.
+The following people have added more than 100 records and/or volunteered for either the Vermont Bumble Bee Atlas or Wild Bee Survey (names in <b>bold</b>). Asterisks indicate project staff and collaborators. <a href="https://www.inaturalist.org/observations?place_id=47&subview=map&taxon_id=630955&view=observers" target="blank_">View a complete list</a> of more than 1,500 iNaturalist users who have submitted bee records for Vermont.
 <p style="font-size:11pt">
 <b>Betsy and Jim Bahrenburg</b>, 
 E. L. Bell, 
@@ -118,13 +142,15 @@ Helen Young,
 Sara Zahendra*</p>
 
 
-<h4><u>Landowners</u></h4>
-The following organizations graciously allowed us access to their land for this project.
+<h4><u>Landowners</u></h4> 
+
+The following organizations graciously allowed us access to their land for this project:
 
 The Nature Conservation, The Vermont Department of Parks and Recreation, Vermont Fish and Wildlife Department, Green Mountain National Forest, The Vermont Air National Guard, The Vermont Army National Guard, Missisquoi National Wildlife Refuge, Silvio Conte National Wildlife Refuge, Merck Forest and Farmland Center.
 <br>
 
 <h4><u>Others</u></h4>
+
 Thank you to the following people for help with botanical, ecological, collections, or other invaluable help.
 <br>
 <br>
