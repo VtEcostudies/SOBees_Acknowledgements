@@ -22,7 +22,7 @@ Sam Droege, <i>USGS Native Bee Inventory and Monitoring Program</i><br>
 Tim Duclos, <i>Merck Forest and Farmland Center</i><br>
 Mark Ferguson, <i>Vermont Fish and Wildlife Department</i><br>
 Joan Milam, <i>University of Massachusetts</i><br>
-Lief Richardson, <i>Xerces Society</i><br>
+Leif Richardson, <i>Xerces Society</i><br>
 Michael Veit<br>     
 </div>
 <div>
