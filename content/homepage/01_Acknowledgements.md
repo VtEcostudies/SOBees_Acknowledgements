@@ -68,14 +68,14 @@ Katie McGranaghan, <i>Community College of Vermont</i><br>
 
 The following people have been instrumental in identifying bees from Vermont. Without their expertise and time (often volunteered), this project would not have been possible. Through iNaturalist, over <a href="https://www.inaturalist.org/observations?place_id=47&subview=map&taxon_id=630955&view=identifiers">700 people</a> from all over the world have contributed identifications.
 
-John Ascher<br> <!--<br> -->
-Sam Droege<br><!--<br> -->
-Jason Gibbs<br> <!--<br> -->
-Joan Milam<br> <!--<br> -->
-Max McCarthy<br><!--<br> -->
+John Ascher, <i>National University of Singapore</i><br>
+Sam Droege, <i>USGS Native Bee Inventory and Monitoring Program</i><br>
+Jason Gibbs, <i>University of Manitoba</i><br>
+Joan Milam, <i>University of Massachusetts</i><br>
+Max McCarthy, <i>Rutgers University</i><br>
 Joel Neylon<br> <!--<br> -->
-Thomas Onuferko<br> <!--<br> -->
-Leif Richardson<br> <!--<br> -->
+Thomas Onuferko, <i>Canadian Museum of Nature</i><br>
+Leif Richardson, <i>Xerces Society</i><br>
 Michael Veit<br> <!--<br> -->
 </div>
 <div>
