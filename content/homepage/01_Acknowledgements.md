@@ -3,7 +3,9 @@ title: 'Acknowledgements'
 weight: 1
 header_menu: false
 ---
-The State of Bees report represents countless hours of work from hundreds of people. Each of the nearly 60,000 bee records that form the backbone of this report are by themselves a collaboration of many individuals and organizations. Each record starts with either a photograph or specimen collected in the field, often by a volunteer or scientist working on their own project. Each record is identified by at least one expert taxonomist, who is basing their work on more than a century of prior taxonomic work. Finally, each record is digitized and shared as open data with the Vermont Atlas of Life and the Global Biodiversity Information Facility (GBIF).
+The State of Bees report represents countless hours of work from hundreds of people. Each of the nearly 60,000 bee records that form the backbone of this report are by themselves a collaboration of many individuals and organizations. Each record starts with either a photograph or specimen collected in the field, often by a volunteer or scientist working on their own project. Each record is identified by at least one expert taxonomist, who is basing their work on more than a century of prior taxonomic work. Finally, each record is digitized and shared as open data with the Vermont Atlas of Life and the Global Biodiversity Information Facility (GBIF).<br>
+
+We acknowledge that the lands covered in this report are the traditional and unceded home of the Western Abenaki People and other Indigenous Peoples. These lands and waters have been a site of meeting and exchange among Indigenous Peoples for thousands of years. We honor, recognize and respect the Abenaki as the traditional stewards of this landscape. We strive to respect and protect this land, while continually honoring the legacy of Indigenous People across Vermont and beyond.<br>
 
 <div style="padding: 8px; background-color: rgb(0, 96, 84); border-radius: 5.5px 5.5px 2.5px 2.5px;">
 <p style="color: white" ><b>Suggested Citation:</b>
@@ -17,8 +19,6 @@ Hardy, Spencer, Michael T. Hallworth, Mark Ferguson, Nathaniel Sharp, Jason Loom
   if (elem) {elem.innerText = dfmt.format(Date.now());}
   else {console.log(`Date script error - element 'dateAccessed' not found.`);}
 </script>
-
-We acknowledge that the lands covered in this report are the traditional and unceded home of the Western Abenaki People and other Indigenous Peoples. These lands and waters have been a site of meeting and exchange among Indigenous Peoples for thousands of years. We honor, recognize and respect the Abenaki as the traditional stewards of this landscape. We strive to respect and protect this land, while continually honoring the legacy of Indigenous People across Vermont and beyond.
 
 The following people were instrumental in getting this project off the ground, compiling the data that made it possible, and/or allowing access to the many special natural areas found throughout the state.
 
