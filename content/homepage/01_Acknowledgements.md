@@ -36,16 +36,16 @@ Leif Richardson, <i>Xerces Society</i><br>
 Michael Veit<br>
 </div>
 <div>
-<h3><u>Funders</u></h3>
+<h3><u>Funding</u></h3>
 
-Vermont Fish and Wildlife Department State Wildlife Grant <br>
-Sarah K. de Coizart Perpetual Charitable Trust <br>
-Missisquoi National Wildlife Refuge<br>
-UVM Apis Fund<br>
 Binnacle Family Foundation<br>
-Riverledge Foundation<br>
-NatureServe<br>
 Kelsey Trust<br>
+Missisquoi National Wildlife Refuge<br>
+NatureServe<br>
+Riverledge Foundation<br>
+Sarah K. de Coizart Perpetual Charitable Trust <br>
+UVM Apis Fund<br>
+Vermont Fish and Wildlife Department State Wildlife Grant <br>
 Friends and supporters of the Vermont Center for Ecostudies<br>
 </div>
 </div>
