@@ -3,7 +3,7 @@ title: 'Acknowledgements'
 weight: 1
 header_menu: false
 ---
-The State of Bees report represents countless hours of work from hundreds of people. Each of the nearly 60,000 bee records that form the backbone of this report are by themselves a collaboration of many individuals and organizations. Each record starts with either a photograph or specimen collected in the field, often by a volunteer or scientist working on their own project. Each record is identified by at least one expert taxonomist, who is basing their work on more than a century of prior taxonomic work. Finally, each record is digitized,shared as open data with the Vermont Atlas of Life and GBIF.
+The State of Bees report represents countless hours of work from hundreds of people. Each of the nearly 60,000 bee records that form the backbone of this report are by themselves a collaboration of many individuals and organizations. Each record starts with either a photograph or specimen collected in the field, often by a volunteer or scientist working on their own project. Each record is identified by at least one expert taxonomist, who is basing their work on more than a century of prior taxonomic work. Finally, each record is digitized and shared as open data with the Vermont Atlas of Life and the Global Biodiversity Information Facility (GBIF).
 
 <div style="padding: 8px; background-color: rgb(0, 96, 84); border-radius: 5.5px 5.5px 2.5px 2.5px;">
 <p style="color: white" ><b>Suggested Citation:</b>
@@ -40,7 +40,7 @@ Vermont Fish and Wildlife Department <br>
 Sarah K. de Coizart Perpetual Charitable Trust <br>
 Missisquoi National Wildlife Refuge<br>
 UVM Apis Fund<br>
-<br>
+Friends and supporters of the Vermont Center for Ecostudies<br>
 </div>
 </div>
 
@@ -48,10 +48,10 @@ UVM Apis Fund<br>
 <h4><u>Collections</u></h4>
 
 University of Vermont Natural History Museum - Zadock Thompson Zoological Collection<br>
-University of Vermont spear street<br>
+University of Vermont George D. Aiken Forestry Sciences Laboratory Collections<br>
 Middlebury College Insect Collection<br>
 Fairbanks Museum and Planetarium<br>
-<br>
+and the many collections around the world that are digitized and shared with GBIF and the Vermont Atlas of Life.<br>
 </div>
 
 <br>
@@ -66,7 +66,7 @@ Katie McGranaghan, <i>Community College of Vermont</i><br>
 <br>
 <h4><u>Taxonomists</u></h4>
 
-The following people have been instrumental in identifying bees from Vermont. Without their expertise and time (often volunteered), this project would not have been possible. Through iNaturalist, over <a href="https://www.inaturalist.org/observations?place_id=47&subview=map&taxon_id=630955&view=identifiers">700 people</a> from all over the world have contributed identifications.
+The following people have been instrumental in identifying bees from Vermont. Without their expertise and time (often volunteered), this project would not have been possible. And through iNaturalist, over <a href="https://www.inaturalist.org/observations?place_id=47&subview=map&taxon_id=630955&view=identifiers">700 people</a> from all over the world have contributed identifications.
 
 John Ascher, <i>National University of Singapore</i><br>
 Sam Droege, <i>USGS Native Bee Inventory and Monitoring Program</i><br>
@@ -88,7 +88,7 @@ Michael Veit<br> <!--<br> -->
 
 <h4><u>Field Work</u></h4>
 
-The following people have added more than 100 records and/or volunteered for either the Vermont Bumble Bee Atlas or Wild Bee Survey (names in <b>bold</b>). Asterisks indicate project staff and collaborators. <a href="https://www.inaturalist.org/observations?place_id=47&subview=map&taxon_id=630955&view=observers" target="blank_">View a complete list</a> of more than 1,500 iNaturalist users who have submitted bee records for Vermont.
+The following people have added more than 100 records and/or volunteered for either the Vermont Bumble Bee Atlas or the Wild Bee Survey (names in <b>bold</b>). Asterisks indicate project staff and collaborators. <a href="https://www.inaturalist.org/observations?place_id=47&subview=map&taxon_id=630955&view=observers" target="blank_">View a complete list</a> of more than 1,500 iNaturalist users who have submitted bee records for Vermont.
 <p style="font-size:11pt">
 <b>Betsy and Jim Bahrenburg</b>,
 E. L. Bell,
@@ -149,12 +149,11 @@ Nathaniel Sharp*,
 Helen Young,
 Sara Zahendra*</p>
 
-
 <h4><u>Landowners</u></h4>
 
 The following organizations graciously allowed us access to their land for this project:
 
-The Nature Conservation, The Vermont Department of Parks and Recreation, Vermont Fish and Wildlife Department, Green Mountain National Forest, The Vermont Air National Guard, The Vermont Army National Guard, Missisquoi National Wildlife Refuge, Silvio Conte National Wildlife Refuge, Merck Forest and Farmland Center.
+The Nature Conservation, Vermont Department of Forests, Parks and Recreation, Vermont Fish and Wildlife Department, Green Mountain National Forest, Vermont Air National Guard, Vermont Army National Guard, Missisquoi National Wildlife Refuge, Silvio Conte National Wildlife Refuge, Merck Forest and Farmland Center, Vermont Land Trust and others.
 <br>
 
 <h4><u>Others</u></h4>
