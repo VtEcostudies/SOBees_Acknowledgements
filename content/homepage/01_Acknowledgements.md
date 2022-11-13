@@ -18,8 +18,6 @@ Hardy, Spencer, Michael T. Hallworth, Mark Ferguson, Nathaniel Sharp, Jason Loom
   else {console.log(`Date script error - element 'dateAccessed' not found.`);}
 </script>
 
-<h4><u>Land Acknowledgement</u></h4>
-
 We acknowledge that the lands covered in this report are the traditional and unceded home of the Western Abenaki People and other Indigenous Peoples. These lands and waters have been a site of meeting and exchange among Indigenous Peoples for thousands of years. We honor, recognize and respect the Abenaki as the traditional stewards of this landscape. We strive to respect and protect this land, while continually honoring the legacy of Indigenous People across Vermont and beyond.
 
 The following people were instrumental in getting this project off the ground, compiling the data that made it possible, and/or allowing access to the many special natural areas found throughout the state.
