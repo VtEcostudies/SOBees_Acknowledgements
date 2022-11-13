@@ -159,7 +159,7 @@ Sara Zahendra*</p>
 
 <h4><u>Landowners</u></h4>
 
-We thank the many private landowners that graciously gave us permission to survey wild bees on there property. The following organizations and agencies permitted access to their lands for this project:
+We thank the many private landowners that graciously gave us permission to survey wild bees on their property. The following organizations and agencies permitted access to their lands for this project:
 
 The Nature Conservation, Vermont Department of Forests, Parks and Recreation, Vermont Fish and Wildlife Department, Green Mountain National Forest, Vermont Air National Guard, Vermont Army National Guard, Missisquoi National Wildlife Refuge, Silvio Conte National Wildlife Refuge, Merck Forest and Farmland Center, Vermont Land Trust and others.
 <br>
