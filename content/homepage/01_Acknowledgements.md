@@ -40,10 +40,14 @@ Michael Veit<br>
 <div>
 <h3><u>Funders</u></h3>
 
-Vermont Fish and Wildlife Department <br>
+Vermont Fish and Wildlife Department State Wildlife Grant <br>
 Sarah K. de Coizart Perpetual Charitable Trust <br>
 Missisquoi National Wildlife Refuge<br>
 UVM Apis Fund<br>
+Binnacle Family Foundation<br>
+Riverledge Foundation<br>
+NatureServe<br>
+Kelsey Trust<br>
 Friends and supporters of the Vermont Center for Ecostudies<br>
 </div>
 </div>
