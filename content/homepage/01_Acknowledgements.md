@@ -18,6 +18,10 @@ Hardy, Spencer, Michael T. Hallworth, Mark Ferguson, Nathaniel Sharp, Jason Loom
   else {console.log(`Date script error - element 'dateAccessed' not found.`);}
 </script>
 
+<h4><u>Land Acknowledgement</u></h4>
+
+We acknowledge that the lands covered in this report are the traditional and unceded home of the Western Abenaki People and other Indigenous Peoples. These lands and waters have been a site of meeting and exchange among Indigenous Peoples for thousands of years. We honor, recognize and respect the Abenaki as the traditional stewards of this landscape. We strive to respect and protect this land, while continually honoring the legacy of Indigenous People across Vermont and beyond.
+
 The following people were instrumental in getting this project off the ground, compiling the data that made it possible, and/or allowing access to the many special natural areas found throughout the state.
 
 <div class = "row">
@@ -151,7 +155,7 @@ Sara Zahendra*</p>
 
 <h4><u>Landowners</u></h4>
 
-The following organizations graciously allowed us access to their land for this project:
+We thank the many private landowners that graciously gave us permission to survey wild bees on there property. The following organizations and agencies permitted access to their lands for this project:
 
 The Nature Conservation, Vermont Department of Forests, Parks and Recreation, Vermont Fish and Wildlife Department, Green Mountain National Forest, Vermont Air National Guard, Vermont Army National Guard, Missisquoi National Wildlife Refuge, Silvio Conte National Wildlife Refuge, Merck Forest and Farmland Center, Vermont Land Trust and others.
 <br>
