@@ -84,6 +84,13 @@ a {
   margin-bottom: 20px;
 }
 
+.citation {
+  text-align: center;
+  font-size: 12pt;
+  margin-left:15%;
+  margin-right:15%;
+}
+
 .doubleColumn {
   height: 95%;
   margin-left: 5%;
