@@ -11,7 +11,7 @@ We acknowledge that the lands covered in this report are the traditional and unc
 <p style="color: white;" >
 <b>Suggested Citation:</b>
 Hardy, Spencer, Michael T. Hallworth, Mark Ferguson, Nathaniel Sharp, Jason Loomis, Emily Anderson, Kent McFarland. 2022.
-The State of Vermont’s Wild Bees 2022. https://stateofbees.vtatlasoflife.org/. Vermont Center for Ecostudies-Vermont Atlas of Life. <a href="https://doi.org/10.5281/zenodo.7261315"><img style="display:inline; vertical-align:text-bottom; margin-top:0px; padding-bottom:2px;" src="https://zenodo.org/badge/DOI/10.5281/zenodo.7261315.svg" alt="DOI"></a> Accessed: <label id="dateAccessedBody">01-01-1970</label>
+The State of Vermont’s Wild Bees 2022. https://stateofbees.vtatlasoflife.org/. Vermont Center for Ecostudies-Vermont Atlas of Life. <a href="https://doi.org/10.5281/zenodo.7261315"><img style="display:inline; vertical-align:text-bottom; margin-top:0px; padding-bottom:2px;" src="https://zenodo.org/badge/DOI/10.5281/zenodo.7261315.svg" alt="https://doi.org/10.5281/zenodo.7261315"></a> Accessed: <label id="dateAccessedBody">01-01-1970</label>
 </p>
 </div>
 
